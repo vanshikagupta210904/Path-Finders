@@ -89,6 +89,15 @@ If selected for the next phase, we’ll showcase:
 4. **OCR Photo Solution Workflow**  
 
 ---
+### 🤝 **Team Members**  
+
+- [💻 Yash Mittal](https://github.com/Y-a-s-h-M-i-t-t-a-l)  
+- [🤖 Prateek Bisht](https://github.com/PratiikBisht)   
+- [🎨 Vanshika Gupta](https://github.com/vanshikagupta210904) 
+- [📊 Adamya Gaur](https://github.com/Adamya113) 
+- [🛠️ Rahul Jain](https://github.com/Rahul-Jain-1)   
+
+---
 
 ## 🤝 **Contribute**  
 
